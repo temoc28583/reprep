@@ -3,3 +3,6 @@ this is my second commit
 this is my third commit
 this is my fourth commit
 this is my fifth commit
+this is my 6th commit
+this is my 7th commit
+this is my 8th commit
